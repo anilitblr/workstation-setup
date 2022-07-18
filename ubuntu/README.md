@@ -1,6 +1,26 @@
-# Install tools
+# Install tools on Ubuntu workstation
 
-Table of contents
+Table of Contents:
 
-[Install maven](docs/install-maven-v3.8.6-on-ubuntu.md)
-
+- [Install Java]()
+- [Install maven](docs/install-maven-v3.8.6-on-ubuntu.md)
+- [Install gradle]()
+- [Install NodeJS]()
+- [Install go]()
+- [Install IDEs]()
+- [Install Yarn]()
+- [Install PostgresQL v10]()
+- [Install Zoom]()
+- [Install Browsers]()
+- [Install Docker ]()
+- [Create swapfile]()
+- [Install Dynamodb]()
+- [Install Elastic search]()
+- [Install Slack]()
+- [Install Postman]()
+- [Install Rkhunter Antivirus Software]()
+- [Install Amazon WorkSpaces Client]()
+- [Install Kazam recorder]()
+- [Ngrok - remote access]()
+  - [SSH into Remote Linux Machine]()
+  - [Share local HTTP ]()
