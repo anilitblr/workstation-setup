@@ -1,6 +1,6 @@
 # Install maven v3.8.6 on Ubuntu
 
-**Create directory**
+**Create `bin` directory and `change directory` into it**
 
 ```bash
 mkdir -p ~/bin && cd $_;
@@ -23,17 +23,17 @@ unzip apache-maven-3.8.6-bin.zip;
 ```bash
 vi ~/.profile;
 
----
 Update the below two lines of content.
 
+---
 # maven-3.8.6
 export PATH=~/bin/apache-maven-3.8.6/bin:$PATH
+---
 
 save and close the file.
----
 ```
 
-**Update the maven to PATH**
+**Update maven to PATH**
 
 ```bash
 source ~/.profile;
@@ -42,7 +42,7 @@ source ~/.profile;
 **Check the installed version of maven**
 
 ```bash
-mvn -v;
+mvn -v; # Output looks like below.
 ```
 
 - OUTPUT: `Apache Maven 3.8.6 (84538c9988a25aec085021c365c560670ad80f63)
