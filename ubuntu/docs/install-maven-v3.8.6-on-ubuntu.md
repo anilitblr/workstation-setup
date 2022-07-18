@@ -21,16 +21,10 @@ unzip apache-maven-3.8.6-bin.zip;
 **Update the profile file**
 
 ```bash
-vi ~/.profile;
-
-Update the below two lines of content.
-
----
-# maven-3.8.6
+cat << 'EOT' >> ~/.profile
+# maven v3.8.6
 export PATH=~/bin/apache-maven-3.8.6/bin:$PATH
----
-
-save and close the file.
+EOT
 ```
 
 **Update maven to PATH**
