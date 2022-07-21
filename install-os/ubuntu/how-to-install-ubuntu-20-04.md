@@ -1,0 +1,1 @@
+https://ubuntu.com/tutorials/install-ubuntu-desktop#9-create-your-login-details

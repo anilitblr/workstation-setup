@@ -21,7 +21,7 @@ unzip apache-maven-3.8.6-bin.zip;
 **Update the profile file**
 
 ```bash
-cat << 'EOT' >> ~/.profile
+cat << 'EOT' >> ~/.bashrc
 # maven v3.8.6
 export PATH=~/bin/apache-maven-3.8.6/bin:$PATH
 EOT
@@ -44,3 +44,4 @@ Maven home: /home/<your username>/bin/apache-maven-3.8.6
 Java version: 1.8.0_312, vendor: Private Build, runtime: /usr/lib/jvm/java-8-openjdk-amd64/jre
 Default locale: en_IN, platform encoding: UTF-8
 OS name: "linux", version: "5.13.0-52-generic", arch: "amd64", family: "unix`
+
