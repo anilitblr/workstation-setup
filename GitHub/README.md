@@ -36,9 +36,9 @@ git config user.email "your-github-email-address"
 
 ```
 # Example: 
-# ssh-keygen -t ed25519 -C "your_email@youremail.com" -f ~/.ssh/filename
+# ssh-keygen -t rsa -C "your_email@example.com" -f ~/.ssh/your-github-username
 
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f ~/.ssh/your-github-username
+ssh-keygen -t rsa -C "your_email@example.com" -f ~/.ssh/your-github-username
 
 # Enter a passphrase when prompted.
 ```
