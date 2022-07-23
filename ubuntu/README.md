@@ -2,6 +2,7 @@
 
 Table of Contents:
 
+- [Make Ubuntu 20.04 look like Mac OS Catalina](docs/make-ubuntu-20-04-look-like-mac-os-catalina.md)
 - [Install Java]()
 - [Install maven](docs/install-maven-v3.8.6-on-ubuntu.md)
 - [Install gradle]()
