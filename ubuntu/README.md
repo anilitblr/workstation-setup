@@ -6,7 +6,7 @@ Table of Contents:
 - [Install Java]()
 - [Install maven](docs/install-maven-v3.8.6-on-ubuntu.md)
 - [Install gradle]()
-- [Install NodeJS]()
+- [Install NodeJS](docs/install-node-js.md)
 - [Install go]()
 - [Install IDEs]()
 - [Install Yarn]()

@@ -1,0 +1,12 @@
+# Default account
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+
+# Delixus account
+Host github-delixus
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_delixus_github
+
