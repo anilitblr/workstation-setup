@@ -34,7 +34,7 @@ echo "
 localhost:5432:testdb:test:pass.word" | tee ~/.pgpass
 ```
 
-### Chane .pgpass file permission
+### Change .pgpass file permission
 
 ```bash
 chmod 600 ~/.pgpass
