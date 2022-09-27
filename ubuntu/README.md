@@ -11,7 +11,7 @@ Table of Contents:
 - [Install IDEs]()
 - [Install Yarn]()
 - Databases
-  - [Install PostgresQL v14]()
+  - [Install PostgresQL v14](docs/database/PostgreSQL/install-postgresql-14.md)
 - [Install Zoom]()
 - [Install Browsers]()
 - [Install Docker ]()
