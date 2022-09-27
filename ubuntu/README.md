@@ -10,7 +10,8 @@ Table of Contents:
 - [Install go]()
 - [Install IDEs]()
 - [Install Yarn]()
-- [Install PostgresQL v10]()
+- Databases
+  - [Install PostgresQL v14]()
 - [Install Zoom]()
 - [Install Browsers]()
 - [Install Docker ]()
