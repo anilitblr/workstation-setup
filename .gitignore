@@ -1,1 +1,4 @@
 .todo.md
+database/database-migration/venv/
+*/venv/*
+venv
