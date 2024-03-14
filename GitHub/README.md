@@ -105,3 +105,18 @@ Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added 'github.com,IP Address' (RSA) to the list of known hosts.
 Hi your-github-username! You've successfully authenticated, but GitHub does not provide shell access.
 ```
+
+### Create tag and push
+
+```bash
+git tag -a v1.0 -m "This is the final program of v1.0.0"
+git tag
+git push --tags
+```
+
+### Delete tag and push
+
+```bash
+git tag -d v1.0
+git push origin :v1.0
+```
